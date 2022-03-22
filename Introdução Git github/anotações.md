@@ -1,5 +1,9 @@
 # GIT
 
+- https://git-scm.com/downloads
+
+- https://github.com/
+
 ### Estados
 
 - Modified
@@ -75,7 +79,3 @@ git fetch   - não aplicar na branch atual
 ###### Clonar repositorio remoto
 
 git clone <repositorio>
-
-
-
-
